@@ -1,0 +1,25 @@
+body {
+
+  color: rgb(232, 232, 232);
+
+
+}
+
+.item {
+  background-color: brown;
+  width: 1100px;
+  height: 200px;
+  margin: 10px;
+  padding: 30px;
+}
+
+.contenedor {
+  margin: 100px;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+  background-color: darkblue;
+  border-radius: 300px;
+}

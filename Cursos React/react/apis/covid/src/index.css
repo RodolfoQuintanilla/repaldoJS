@@ -1,0 +1,9 @@
+* {
+  background-color: #2F353F;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+
+}

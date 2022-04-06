@@ -1,0 +1,3 @@
+TextDecoderStream('Hola mundo jest', () => {
+
+});
